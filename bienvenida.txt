@@ -1,3 +1,3 @@
-Hola, soy Nombre Apellido
+Hola, soy Toribioxd-bit
 Curso: Desarrollo colaborativo con Git
-Bienvenidos a mi laboratorio de Git y GitHub
+Saludos profesor
